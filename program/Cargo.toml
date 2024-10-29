@@ -1,0 +1,10 @@
+[package]
+name = "sp1demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sp1-zkvm = { git = "https://github.com/succinctlabs/sp1.git", rev = "v1.0.8-testnet" }
+chess-engine = { git = "https://github.com/adam-mcdaniel/chess-engine.git" }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
