@@ -50,6 +50,12 @@ cd script
 ./target/release/prove --board '{"w":["Ke1","Qf3","Bc4","Pd2","Pe4"],"b":["Kf8","Pf7","Pg7","Ph7","Pe7"]}' --mode interactive --moves '[]' --keystore-path ~/.foundry/keystores/fio
 ```
 
+### Contract deployment
+
+- contract [0xaa7fb0a4b3a1a3623b7c10b5e4a7b41e78f70643](https://holesky.etherscan.io/address/0xaa7fb0a4b3a1a3623b7c10b5e4a7b41e78f70643)
+
+- Sample mint tx [https://holesky.etherscan.io/tx/0xa430278a0676272f4da3fea1bf467f3b918c93fd639770f6628b61f2631cbad2](https://holesky.etherscan.io/tx/0xa430278a0676272f4da3fea1bf467f3b918c93fd639770f6628b61f2631cbad2)
+
 
 ## Project Roadmap
 
